@@ -1,0 +1,4 @@
+venv
+.idea
+FlaskBlogDemo/__pycache__/flaskBlog.cpython-38.pyc
+FlaskBlogDemo/__pycache__/forms.cpython-38.pyc
